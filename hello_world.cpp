@@ -1,11 +1,5 @@
 #incule <iostream>
-
-//vr1
+using namespace std;
 void main() {
-
-	cout << "¬ведите им€ пользовател€: ";
-	string a;
-	cin >> a;
-	cout << "Hello world from " << a;
-
+	cout << "Hello world!"
 }
