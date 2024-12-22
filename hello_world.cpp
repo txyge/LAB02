@@ -2,11 +2,11 @@
 using namespace std;
 
 void main() {
-	//Выводит сообщение о вводе имени
-	cout << "Введите имя пользователя: ";
+	//Displays a message about entering a name
+	cout << "Г‚ГўГҐГ¤ГЁГІГҐ ГЁГ¬Гї ГЇГ®Г«ГјГ§Г®ГўГ ГІГҐГ«Гї: ";
 	string a;
 	cin >> a;
-	//Выводит Hello world from и имя пользователя
+	//Outputs Hello world from and the user
 	cout << "Hello world from " << a;
 
 }
