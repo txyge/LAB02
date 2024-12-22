@@ -3,7 +3,7 @@ using namespace std;
 
 void main() {
 	//Displays a message about entering a name
-	cout << "Ââåäèòå èìÿ ïîëüçîâàòåëÿ: ";
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã¨Ã¬Ã¿ Ã¯Ã®Ã«Ã¼Ã§Ã®Ã¢Ã Ã²Ã¥Ã«Ã¿: ";
 	string a;
 	cin >> a;
 	//Outputs Hello world from and the user
